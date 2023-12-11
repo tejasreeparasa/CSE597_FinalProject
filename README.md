@@ -54,17 +54,3 @@ Touchdown splits based on: https://github.com/lil-lab/touchdown
 map2seq splits based on: https://map2seq.schumann.pub  
 Panorama images can be downloaded here: https://sites.google.com/view/streetlearn/dataset
 
-Citation
-=========
-Please cite the following paper if you use this code:
-
-```
-@inproceedings{schumann-riezler-2022-analyzing,
-    title = "Analyzing Generalization of Vision and Language Navigation to Unseen Outdoor Areas",
-    author = "Schumann, Raphael and Riezler, Stefan",
-    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    year = "2022",
-    address = "Dublin, Ireland",
-    pages = "7519--7532"
-}
-```
